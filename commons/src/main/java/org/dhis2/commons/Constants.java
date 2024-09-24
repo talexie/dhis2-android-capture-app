@@ -6,6 +6,7 @@ import org.jetbrains.annotations.Nullable;
 public class Constants {
 
     public static final String EXTRA_DATA = "extra_data";
+    public static final String EXTRA_DATA_MASTERCARD = "extra_data";
 
     //PREFERENCES
     public static final String SHARE_PREFS = "org.dhis2";
